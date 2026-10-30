@@ -1,0 +1,12 @@
+EM_DV_TLS_CA_G3B-AAA.crt,0x9c
+EM_DV_TLS_CA_G3B-emSign.crt,0x9c
+EM_DV_TLS_CA_G3C-AAA.crt,0xe6
+EM_DV_TLS_CA_G3C-emSign.crt,0xe6
+EM_EV_TLS_CA_G3B-AAA.crt,0x73
+EM_EV_TLS_CA_G3B-emSign.crt,0x73
+EM_EV_TLS_CA_G3C-AAA.crt,0x38
+EM_EV_TLS_CA_G3C-emSign.crt,0x38
+EM_OV_TLS_CA_G3B-AAA.crt,0x9b
+EM_OV_TLS_CA_G3B-emSign.crt,0x9b
+EM_OV_TLS_CA_G3C-AAA.crt,0x04
+EM_OV_TLS_CA_G3C-emSign.crt,0x04
